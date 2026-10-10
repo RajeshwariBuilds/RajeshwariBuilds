@@ -4,8 +4,8 @@
 
 ### AI & ML Student · Python Developer · Building Intelligent, Useful Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajeshwari_Shirsat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([PASTE LINKEDIN URL])
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[PASTE EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajeshwari_Shirsat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshwari-s-95431333b)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshwarishirsat028@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-RajeshwariBuilds-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajeshwariBuilds)
 
 </div>
@@ -14,14 +14,40 @@
 
 ## 🧠 About Me
 
-I'm a B.Tech student with a strong interest in **Artificial Intelligence and Machine Learning**. I like building things that solve real problems, from voice assistants that help visually impaired users to systems that detect online threats. My goal is to grow into an **AI/ML Engineer** who builds intelligent, secure, and genuinely useful technology.
+<div align="center">
 
-- 🔨 **Currently building:** Phishing Detection System · Nova Voice Assistant
-- 📚 **Exploring:** Machine Learning · Voice & Language Interfaces · Cybersecurity
-- 🎯 **Goal:** AI/ML Engineer building impactful, real-world systems
-- 💡 **Learning in public:** certifications, simulations, and projects, one milestone at a time
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Student+%F0%9F%9A%80;Building+voice+assistants+that+help+people;Learning+to+detect+threats+with+AI;Future+AI%2FML+Engineer" alt="Typing animation" />
 
----
+</div>
+
+I'm a B.Tech student with a strong interest in **Artificial Intelligence and Machine Learning**. I like building things that solve real problems, from voice assistants that support visually impaired users to systems that detect online threats.
+
+### 📡 Right Now
+
+| | |
+|---|---|
+| 🔨 **Building** | 🎣 Phishing Detection System &nbsp;·&nbsp; 🌟 Nova Voice Assistant |
+| 🧠 **Exploring** | Machine Learning &nbsp;·&nbsp; Voice & Language Interfaces &nbsp;·&nbsp; Cybersecurity |
+| 🎯 **Goal** | AI/ML Engineer building impactful, real-world systems |
+| 🌱 **Approach** | Learning in public: certifications, simulations, and projects |
+
+![Status](https://img.shields.io/badge/Status-Building_%26_Learning-00D9FF?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-AI_%26_ML-8A2BE2?style=for-the-badge)
+![Goal](https://img.shields.io/badge/Goal-ML_Engineer-FF6B6B?style=for-the-badge)
+
+<details>
+<summary><b>🏁 Milestones so far (click to expand)</b></summary>
+
+<br>
+
+- ✅ Completed **IBM Python** certification (July 2026)
+- ✅ Completed **Deloitte Data Analytics** and **Cyber** job simulations (April 2026)
+- ✅ Completed **IBM C++** Software Foundation course (Dec 2025)
+- ✅ Earned **IT Specialist: JavaScript** certification from Certiport (Oct 2025)
+- ✅ Built the **Blind Stick Voice Assistant**
+- 🚧 Currently building the **Phishing Detection System** and **Nova Voice Assistant**
+
+</details>
 
 ## 🛠️ Tech Stack
 
@@ -113,8 +139,8 @@ A personal voice assistant project focused on natural, hands-free interaction.
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)]([PASTE LINKEDIN URL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rajeshwari-s-95431333b)
 
-*"Every project is a step closer to the engineer I want to become."* ✨
+*"Building technology that listens, learns, and protects."* ✨
 
 </div>
