@@ -26,12 +26,13 @@ I'm a B.Tech student with a strong interest in **Artificial Intelligence and Mac
 
 | | |
 |---|---|
-| 🔨 **Building** | 🎣 Phishing Detection System &nbsp;·&nbsp; 🌟 Nova Voice Assistant |
+| 🔨 **Building** | 🎣 Phishing Detection System &nbsp;·&nbsp; 🌟 Nova Voice Assistant &nbsp;·&nbsp; 🇮🇳 SIH Labour Market Intelligence |
 | 🧠 **Exploring** | Machine Learning &nbsp;·&nbsp; Voice & Language Interfaces &nbsp;·&nbsp; Cybersecurity |
 | 🎯 **Goal** | AI/ML Engineer building impactful, real-world systems |
 | 🌱 **Approach** | Learning in public: certifications, simulations, and projects |
 
 ![Status](https://img.shields.io/badge/Status-Building_%26_Learning-00D9FF?style=for-the-badge)
+![SIH](https://img.shields.io/badge/Smart_India_Hackathon_2026-Internal_Round_Cleared-FF9933?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-AI_%26_ML-8A2BE2?style=for-the-badge)
 ![Goal](https://img.shields.io/badge/Goal-ML_Engineer-FF6B6B?style=for-the-badge)
 
@@ -46,6 +47,8 @@ I'm a B.Tech student with a strong interest in **Artificial Intelligence and Mac
 - ✅ Earned **IT Specialist: JavaScript** certification from Certiport (Oct 2025)
 - ✅ Built the **Blind Stick Voice Assistant**
 - 🚧 Currently building the **Phishing Detection System** and **Nova Voice Assistant**
+- 🏆 Team cleared the **internal round of Smart India Hackathon 2026** (August 2026)
+- 🚧 Building for **SIH26246**: AI-Enabled Labour Market Intelligence (MSDE)
 
 </details>
 
@@ -102,6 +105,16 @@ A personal voice assistant project focused on natural, hands-free interaction.
 
 ---
 
+### 🇮🇳 [SIH 2026: AI-Enabled Labour Market Intelligence]([PASTE REPO LINK IF ANY]) — 🚧 In Progress
+`Smart India Hackathon 2026 · Problem Statement SIH26246 · Ministry of Skill Development & Entrepreneurship (MSDE)`
+
+Team ByteMinds is building an AI-enabled labour market intelligence and skill demand-supply forecasting engine, aimed at helping match workforce skills with market demand.
+
+- Team project with 06 members, cleared the internal round in August 2026
+- Focus: skill demand-supply forecasting using AI/ML
+
+---
+
 ## 📜 Certifications
 
 | Certification | Issuer | Date |
@@ -112,11 +125,11 @@ A personal voice assistant project focused on natural, hands-free interaction.
 | Data Analytics Job Simulation | Deloitte | Apr 2026 |
 | Cyber Job Simulation | Deloitte | Apr 2026 |
 
-## 🏅 Events & Participation
+## 🏆 Achievements & Participation
 
+- **Smart India Hackathon 2026**: Team ByteMinds cleared the internal round (August 2026)
 - **AI & Technology Quiz 2026**: CampusUnite (July 2026)
 - **Game Night Edition**: Google Student Ambassador Program (April 2026)
-
 ---
 
 ## 🌐 Open To
